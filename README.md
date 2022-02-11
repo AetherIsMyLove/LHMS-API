@@ -1,1 +1,13 @@
 # LHMS-API
+ The First API about "Lớp Học Ma Sói"
+- There's a slug
+ GET /api/:name (search by name)
+
+ Example: GET /api/Jaki
+ ```json
+
+  "content": "\nJaki là một trong 3 nhân vật chính trong series Lớp học ma sói của Jaki Natsumi. Đồng thời Jaki cũng là phiên bản tương đương của Jaki Natsumi.\n\n\n\n\nNgoại hình\nJaki là một người enderman có dội mũ màu tím và biểu tượng ngọc Ender trên ngực.\n\nTính cách\nJaki là 1 người ngốc nghếch nhưng cậu luôn hoà đồng,dễ gần,hiền lành,dễ kết bạn,biết quan tâm đến những người bạn của mình\n- Đôi lúc cậu trở lên lười biếng, hay nghĩ bậy và cậu không thông minh lắm\n\nTiểu sử\nJaki có bố là tổng thống nước Nochim, và có ông nội là cựu tổng thống nước Nochim, tỷ phú và cũng là người mạnh nhất trong tộc Enderman.\nJaki không được huấn luyện bởi ai hết, nhưng cậu có nhiều năm đi theo ông nội chiến đấu với ma quỷ, hơn 1 năm đi theo chú Jolu để bắt SCP,....\nJaki được 16 tuổi nhưng do tác dụng phụ của kĩ năng tối thượng:  ngưng đọng thời gian nên tuổi thật của jaki khả năng là 21 tuổi\nKhả năng\nCó thể dịch chuyển tức thời, càng xa càng tốn sức lực....\nCó thể dịch chuyển và hoán đổi vị thể các vật thể và sinh thể...\nCó thể hoán đổi giữa hai đồ vật với nhau.\nDịch chuyển vô cực: Jaki sẽ dùng kĩ năng dịch chuyển tức thời 1 cách hàng loạt và liên tục trong 1 khoảng thời điểm ngắn\nTốc biến\nDịch chuyển tứ tung\nTriệu hồi ra vô sô các viên ngọc Ender:Kỹ năng này là chiêu cuối của Jaki và lao vào  đối thủ với tốc độ cực nhanh khiến họ không kịp phản ứng.\nNội tại:\nKhi gặp nguy hiểm, sẽ có một vật mà Jaki từng thấy trong phạm vi gần xuất hiện và đỡ đòn tấn công, bảo vệ cho cậu.\nKhi bị tấn công, Jaki sẽ dịch người đó ra chỗ khác\nCó thể dịch chuyển đồ vật trong 1 phạm vi nhất định tới vị trí khác\nKhi cận kề cái chết, Jaki sẽ kích hoạt khả năng tối thượng của người enderman làm chậm thời gian.Giới hạn từ 17 giây trở xuống hoặc hơn hoặc tuỳ vào mỗi cấp độ ( việc sử dụng sẽ đi kèm tác dụng phụ, lần đầu sử dụng Jaki mất 5 năm tuổi thọ. Lần 2 sử dụng, Jaki mất toàn bộ kí ức từ Phần 1 đến Phần 6 và những người bạn đã tham gia lớp học với cậu.\nCó thể nói Jaki là một người Enderman mạnh mẽ về thể chất lẫn tinh thần. Dù chưa chắc chắn là cậu là kẻ mạnh nhất.\nThông tin bên lề\nCơ bắp của jaki rất mạnh đấy\nJaki có cô bạn gái tên là Maya và họ đã tham gia Lớp học Ma Sói cho nên họ rất thân vơi nhau bên cạnh đó có cả Yasu.\nMaya đã thầm thích Jaki,sau này cậu mới biết.\nJaki thường bị ship với các main nam vũ trụ LHMS nhưng ship với Maya nhiều hơn.\nVề sau, cậu đã kết hôn với Maya và sinh ra 1 đứa con tên là Jaken.\nSo sánh sức mạnh giữa Jaki và Andy\nDưới đây là bảng so sánh sức mạnh giữa Jaki và Andy\n"
+}
+```
+
+-Testing: https://nochim.jessenqu07.repl.co/
